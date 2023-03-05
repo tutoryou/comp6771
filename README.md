@@ -1,12 +1,13 @@
-# comp6771
-unsw comp6771 22T1 assignment project solution
+# comp9334
+unsw comp6771 23T1 assignment project solution
 
-欢迎浏览我的私人辅导网站：
+欢迎浏览我的私人辅导网站以及bilibili教学视频：
 
 [tutoryou](https://tutoryou.github.io/)
 
 
 # 留学生Computer Science基础课程辅导
+
 
 ## 个人介绍
 
